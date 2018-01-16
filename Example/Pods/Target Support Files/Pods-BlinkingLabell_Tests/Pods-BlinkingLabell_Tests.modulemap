@@ -1,0 +1,6 @@
+framework module Pods_BlinkingLabell_Tests {
+  umbrella header "Pods-BlinkingLabell_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
